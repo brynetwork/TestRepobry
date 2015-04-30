@@ -3,8 +3,4 @@ bry test file
 badz modification
 
 
-<<<<<<< HEAD
-asdasdasd
-=======
-3rd modification created by bry
->>>>>>> 95a4aab6c40c0bcff8dfca6679ad46765958437c
+deleted different characters..
