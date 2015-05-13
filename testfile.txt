@@ -1,3 +1,16 @@
 bry test file
 
-lets try to edit this file.
+badz modification
+
+
+<<<<<<< HEAD
+deleted different characters..
+=======
+<<<<<<< HEAD
+asdasdasd
+=======
+3rd modification created by bry
+>>>>>>> 95a4aab6c40c0bcff8dfca6679ad46765958437c
+
+testing,,, same commited files
+>>>>>>> 500a3ca451bf080ff20c8482316b3e13cc220228
